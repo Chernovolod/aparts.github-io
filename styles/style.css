@@ -45,7 +45,6 @@ nav {
     display: flex;
     align-items: center;
     justify-content: flex-end;
-    width: 100vw;
     height: 70px;
     margin: 0;
 }
