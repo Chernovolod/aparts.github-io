@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:800|PT+Mono|PT+Sans');
+
+:root {
+    --font-xxxlarge:44px;
+    --font-xxlarge:40px;
+    --font-xlarge:36px;
+    --font-medium:32px;
+    --font-small:24px;
+    --font-xsmall:20px;
+    --font-xxsmall:18px;
+    --font-xxxsmall:16px;
+    --font-supasmall:14px;
+}
